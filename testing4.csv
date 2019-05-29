@@ -1,0 +1,313 @@
+Home,Away,Date,P(H),P(D),P(A),P
+Leicester,Wolves,18-08-2018,0.49,0.28,0.23,H
+Tottenham,Fulham,18-08-2018,0.63,0.21,0.16,H
+West Ham,Bournemouth,18-08-2018,0.37,0.27,0.36,H
+Brighton,Man United,19-08-2018,0.23,0.27,0.5,A
+Burnley,Watford,19-08-2018,0.45,0.24,0.31,H
+Man City,Huddersfield,19-08-2018,0.76,0.17,0.07,H
+Crystal Palace,Liverpool,20-08-2018,0.32,0.23,0.45,A
+Arsenal,West Ham,25-08-2018,0.64,0.21,0.15,H
+Bournemouth,Everton,25-08-2018,0.45,0.26,0.29,H
+Huddersfield,Cardiff,25-08-2018,0.54,0.26,0.2,H
+Liverpool,Brighton,25-08-2018,0.74,0.19,0.08,H
+Southampton,Leicester,25-08-2018,0.43,0.26,0.31,H
+Wolves,Man City,25-08-2018,0.1,0.21,0.68,A
+Fulham,Burnley,26-08-2018,0.35,0.28,0.37,A
+Newcastle,Chelsea,26-08-2018,0.3,0.29,0.41,A
+Watford,Crystal Palace,26-08-2018,0.33,0.3,0.36,A
+Man United,Tottenham,27-08-2018,0.38,0.29,0.33,H
+Brighton,Fulham,01-09-2018,0.35,0.28,0.37,A
+Chelsea,Bournemouth,01-09-2018,0.65,0.22,0.12,H
+Crystal Palace,Southampton,01-09-2018,0.52,0.24,0.24,H
+Everton,Huddersfield,01-09-2018,0.64,0.21,0.14,H
+Leicester,Liverpool,01-09-2018,0.19,0.26,0.54,A
+Man City,Newcastle,01-09-2018,0.76,0.16,0.08,H
+West Ham,Wolves,01-09-2018,0.4,0.27,0.33,H
+Burnley,Man United,02-09-2018,0.31,0.26,0.42,A
+Cardiff,Arsenal,02-09-2018,0.28,0.28,0.44,A
+Watford,Tottenham,02-09-2018,0.42,0.3,0.28,H
+Bournemouth,Leicester,15-09-2018,0.4,0.25,0.35,H
+Chelsea,Cardiff,15-09-2018,0.73,0.19,0.07,H
+Huddersfield,Crystal Palace,15-09-2018,0.29,0.28,0.43,A
+Man City,Fulham,15-09-2018,0.74,0.18,0.07,H
+Newcastle,Arsenal,15-09-2018,0.31,0.3,0.4,A
+Tottenham,Liverpool,15-09-2018,0.34,0.25,0.42,A
+Watford,Man United,15-09-2018,0.46,0.26,0.27,H
+Everton,West Ham,16-09-2018,0.6,0.24,0.16,H
+Wolves,Burnley,16-09-2018,0.56,0.26,0.18,H
+Southampton,Brighton,17-09-2018,0.63,0.22,0.14,H
+Brighton,Tottenham,22-09-2018,0.26,0.27,0.46,A
+Burnley,Bournemouth,22-09-2018,0.33,0.27,0.39,A
+Cardiff,Man City,22-09-2018,0.06,0.17,0.76,A
+Crystal Palace,Newcastle,22-09-2018,0.64,0.2,0.16,H
+Fulham,Watford,22-09-2018,0.25,0.23,0.52,A
+Leicester,Huddersfield,22-09-2018,0.59,0.24,0.17,H
+Liverpool,Southampton,22-09-2018,0.7,0.2,0.1,H
+Man United,Wolves,22-09-2018,0.55,0.26,0.19,H
+Arsenal,Everton,23-09-2018,0.56,0.22,0.22,H
+West Ham,Chelsea,23-09-2018,0.15,0.23,0.63,A
+Arsenal,Watford,29-09-2018,0.43,0.23,0.34,H
+Chelsea,Liverpool,29-09-2018,0.5,0.26,0.24,H
+Everton,Fulham,29-09-2018,0.56,0.26,0.18,H
+Huddersfield,Tottenham,29-09-2018,0.22,0.28,0.5,A
+Man City,Brighton,29-09-2018,0.82,0.14,0.04,H
+Newcastle,Leicester,29-09-2018,0.33,0.27,0.4,A
+West Ham,Man United,29-09-2018,0.24,0.25,0.5,A
+Wolves,Southampton,29-09-2018,0.47,0.27,0.26,H
+Cardiff,Burnley,30-09-2018,0.42,0.29,0.3,H
+Bournemouth,Crystal Palace,01-10-2018,0.4,0.27,0.33,H
+Brighton,West Ham,05-10-2018,0.39,0.27,0.34,H
+Burnley,Huddersfield,06-10-2018,0.55,0.23,0.23,H
+Crystal Palace,Wolves,06-10-2018,0.44,0.28,0.28,H
+Leicester,Everton,06-10-2018,0.51,0.25,0.24,H
+Man United,Newcastle,06-10-2018,0.64,0.23,0.14,H
+Tottenham,Cardiff,06-10-2018,0.71,0.18,0.11,H
+Watford,Bournemouth,06-10-2018,0.47,0.27,0.26,H
+Fulham,Arsenal,07-10-2018,0.24,0.27,0.49,A
+Liverpool,Man City,07-10-2018,0.01,0.56,0.43,D
+Southampton,Chelsea,07-10-2018,0.24,0.26,0.5,A
+Bournemouth,Southampton,20-10-2018,0.61,0.22,0.17,H
+Cardiff,Fulham,20-10-2018,0.44,0.28,0.28,H
+Chelsea,Man United,20-10-2018,0.61,0.22,0.17,H
+Huddersfield,Liverpool,20-10-2018,0.11,0.22,0.67,A
+Man City,Burnley,20-10-2018,0.84,0.13,0.03,H
+Newcastle,Brighton,20-10-2018,0.6,0.24,0.16,H
+West Ham,Tottenham,20-10-2018,0.22,0.28,0.49,A
+Wolves,Watford,20-10-2018,0.4,0.25,0.35,H
+Everton,Crystal Palace,21-10-2018,0.52,0.25,0.23,H
+Arsenal,Leicester,22-10-2018,0.39,0.23,0.37,H
+Brighton,Wolves,27-10-2018,0.29,0.25,0.46,A
+Fulham,Bournemouth,27-10-2018,0.26,0.26,0.48,A
+Leicester,West Ham,27-10-2018,0.54,0.25,0.21,H
+Liverpool,Cardiff,27-10-2018,0.71,0.2,0.1,H
+Southampton,Newcastle,27-10-2018,0.47,0.26,0.27,H
+Watford,Huddersfield,27-10-2018,0.57,0.25,0.18,H
+Burnley,Chelsea,28-10-2018,0.15,0.21,0.64,A
+Crystal Palace,Arsenal,28-10-2018,0.31,0.3,0.4,A
+Man United,Everton,28-10-2018,0.42,0.26,0.31,H
+Tottenham,Man City,29-10-2018,0.29,0.25,0.46,A
+Arsenal,Liverpool,03-11-2018,0.32,0.24,0.44,A
+Bournemouth,Man United,03-11-2018,0.39,0.26,0.35,H
+Cardiff,Leicester,03-11-2018,0.25,0.28,0.47,A
+Everton,Brighton,03-11-2018,0.72,0.2,0.08,H
+Newcastle,Watford,03-11-2018,0.26,0.25,0.49,A
+West Ham,Burnley,03-11-2018,0.62,0.25,0.13,H
+Wolves,Tottenham,03-11-2018,0.46,0.28,0.26,H
+Chelsea,Crystal Palace,04-11-2018,0.77,0.16,0.07,H
+Man City,Southampton,04-11-2018,0.77,0.16,0.06,H
+Huddersfield,Fulham,05-11-2018,0.47,0.28,0.25,H
+Cardiff,Brighton,10-11-2018,0.45,0.31,0.24,H
+Crystal Palace,Tottenham,10-11-2018,0.26,0.3,0.45,A
+Huddersfield,West Ham,10-11-2018,0.34,0.3,0.36,A
+Leicester,Burnley,10-11-2018,0.7,0.21,0.09,H
+Newcastle,Bournemouth,10-11-2018,0.35,0.27,0.39,A
+Southampton,Watford,10-11-2018,0.32,0.27,0.42,A
+Arsenal,Wolves,11-11-2018,0.58,0.21,0.21,H
+Chelsea,Everton,11-11-2018,0.69,0.19,0.12,H
+Liverpool,Fulham,11-11-2018,0.67,0.22,0.12,H
+Man City,Man United,11-11-2018,0.76,0.17,0.07,H
+Brighton,Leicester,24-11-2018,0.28,0.23,0.49,A
+Everton,Cardiff,24-11-2018,0.62,0.23,0.15,H
+Fulham,Southampton,24-11-2018,0.37,0.27,0.37,A
+Man United,Crystal Palace,24-11-2018,0.65,0.2,0.16,H
+Tottenham,Chelsea,24-11-2018,0.26,0.26,0.48,A
+Watford,Liverpool,24-11-2018,0.26,0.28,0.47,A
+West Ham,Man City,24-11-2018,0.13,0.22,0.65,A
+Bournemouth,Arsenal,25-11-2018,0.29,0.27,0.44,A
+Wolves,Huddersfield,25-11-2018,0.62,0.22,0.17,H
+Burnley,Newcastle,26-11-2018,0.39,0.24,0.37,H
+Cardiff,Wolves,30-11-2018,0.22,0.28,0.51,A
+Crystal Palace,Burnley,01-12-2018,0.66,0.24,0.1,H
+Huddersfield,Brighton,01-12-2018,0.57,0.27,0.16,H
+Leicester,Watford,01-12-2018,0.52,0.24,0.24,H
+Man City,Bournemouth,01-12-2018,0.79,0.15,0.05,H
+Newcastle,West Ham,01-12-2018,0.42,0.26,0.33,H
+Southampton,Man United,01-12-2018,0.32,0.29,0.39,A
+Arsenal,Tottenham,02-12-2018,0.54,0.24,0.22,H
+Chelsea,Fulham,02-12-2018,0.74,0.18,0.08,H
+Liverpool,Everton,02-12-2018,0.59,0.22,0.18,H
+Bournemouth,Huddersfield,04-12-2018,0.47,0.24,0.29,H
+Brighton,Crystal Palace,04-12-2018,0.4,0.23,0.37,H
+Watford,Man City,04-12-2018,0.1,0.23,0.68,A
+West Ham,Cardiff,04-12-2018,0.56,0.24,0.2,H
+Burnley,Liverpool,05-12-2018,0.12,0.17,0.71,A
+Everton,Newcastle,05-12-2018,0.64,0.23,0.14,H
+Fulham,Leicester,05-12-2018,0.19,0.25,0.55,A
+Man United,Arsenal,05-12-2018,0.35,0.27,0.38,A
+Tottenham,Southampton,05-12-2018,0.56,0.23,0.21,H
+Wolves,Chelsea,05-12-2018,0.29,0.28,0.42,A
+Arsenal,Huddersfield,08-12-2018,0.63,0.2,0.17,H
+Bournemouth,Liverpool,08-12-2018,0.2,0.23,0.57,A
+Burnley,Brighton,08-12-2018,0.42,0.26,0.32,H
+Cardiff,Southampton,08-12-2018,0.38,0.28,0.34,H
+Chelsea,Man City,08-12-2018,0.36,0.27,0.37,A
+Leicester,Tottenham,08-12-2018,0.39,0.28,0.34,H
+Man United,Fulham,08-12-2018,0.66,0.2,0.14,H
+West Ham,Crystal Palace,08-12-2018,0.53,0.23,0.24,H
+Newcastle,Wolves,09-12-2018,0.41,0.26,0.33,H
+Everton,Watford,10-12-2018,0.63,0.22,0.15,H
+Crystal Palace,Leicester,15-12-2018,0.38,0.29,0.33,H
+Fulham,West Ham,15-12-2018,0.19,0.26,0.55,A
+Huddersfield,Newcastle,15-12-2018,0.47,0.29,0.24,H
+Man City,Everton,15-12-2018,0.69,0.2,0.11,H
+Tottenham,Burnley,15-12-2018,0.76,0.17,0.07,H
+Watford,Cardiff,15-12-2018,0.39,0.3,0.31,H
+Wolves,Bournemouth,15-12-2018,0.49,0.27,0.24,H
+Brighton,Chelsea,16-12-2018,0.24,0.23,0.53,A
+Liverpool,Man United,16-12-2018,0.65,0.22,0.13,H
+Southampton,Arsenal,16-12-2018,0.27,0.3,0.44,A
+Wolves,Liverpool,21-12-2018,0.18,0.26,0.56,A
+Arsenal,Burnley,22-12-2018,0.77,0.17,0.06,H
+Bournemouth,Brighton,22-12-2018,0.49,0.26,0.24,H
+Cardiff,Man United,22-12-2018,0.34,0.3,0.36,A
+Chelsea,Leicester,22-12-2018,0.7,0.19,0.1,H
+Huddersfield,Southampton,22-12-2018,0.43,0.29,0.28,H
+Man City,Crystal Palace,22-12-2018,0.71,0.19,0.11,H
+Newcastle,Fulham,22-12-2018,0.6,0.22,0.18,H
+West Ham,Watford,22-12-2018,0.54,0.24,0.22,H
+Everton,Tottenham,23-12-2018,0.44,0.29,0.28,H
+Brighton,Arsenal,26-12-2018,0.29,0.25,0.46,A
+Burnley,Everton,26-12-2018,0.25,0.25,0.5,A
+Crystal Palace,Cardiff,26-12-2018,0.5,0.26,0.24,H
+Fulham,Wolves,26-12-2018,0.33,0.27,0.4,A
+Leicester,Man City,26-12-2018,0.19,0.23,0.58,A
+Liverpool,Newcastle,26-12-2018,0.76,0.17,0.07,H
+Man United,Huddersfield,26-12-2018,0.53,0.2,0.26,H
+Tottenham,Bournemouth,26-12-2018,0.66,0.2,0.14,H
+Watford,Chelsea,26-12-2018,0.28,0.27,0.45,A
+Southampton,West Ham,27-12-2018,0.36,0.28,0.36,A
+Brighton,Everton,29-12-2018,0.39,0.27,0.34,H
+Fulham,Huddersfield,29-12-2018,0.39,0.27,0.35,H
+Leicester,Cardiff,29-12-2018,0.62,0.23,0.15,H
+Liverpool,Arsenal,29-12-2018,0.73,0.18,0.09,H
+Tottenham,Wolves,29-12-2018,0.62,0.2,0.18,H
+Watford,Newcastle,29-12-2018,0.49,0.28,0.23,H
+Burnley,West Ham,30-12-2018,0.19,0.25,0.57,A
+Crystal Palace,Chelsea,30-12-2018,0.31,0.27,0.41,A
+Man United,Bournemouth,30-12-2018,0.66,0.18,0.15,H
+Southampton,Man City,30-12-2018,0.19,0.24,0.57,A
+Arsenal,Fulham,01-01-2019,0.57,0.25,0.18,H
+Cardiff,Tottenham,01-01-2019,0.21,0.26,0.52,A
+Everton,Leicester,01-01-2019,0.44,0.27,0.29,H
+Bournemouth,Watford,02-01-2019,0.32,0.27,0.4,A
+Chelsea,Southampton,02-01-2019,0.57,0.25,0.18,H
+Huddersfield,Burnley,02-01-2019,0.58,0.26,0.16,H
+Newcastle,Man United,02-01-2019,0.3,0.29,0.41,A
+West Ham,Brighton,02-01-2019,0.63,0.21,0.16,H
+Wolves,Crystal Palace,02-01-2019,0.46,0.26,0.28,H
+Man City,Liverpool,03-01-2019,0.44,0.27,0.29,H
+Brighton,Liverpool,12-01-2019,0.12,0.23,0.65,A
+Burnley,Fulham,12-01-2019,0.44,0.26,0.29,H
+Cardiff,Huddersfield,12-01-2019,0.43,0.25,0.32,H
+Chelsea,Newcastle,12-01-2019,0.6,0.25,0.15,H
+Crystal Palace,Watford,12-01-2019,0.5,0.27,0.23,H
+Leicester,Southampton,12-01-2019,0.52,0.25,0.23,H
+West Ham,Arsenal,12-01-2019,0.37,0.27,0.36,H
+Everton,Bournemouth,13-01-2019,0.52,0.25,0.23,H
+Tottenham,Man United,13-01-2019,0.52,0.24,0.24,H
+Man City,Wolves,14-01-2019,0.69,0.21,0.1,H
+Arsenal,Chelsea,19-01-2019,0.43,0.26,0.31,H
+Bournemouth,West Ham,19-01-2019,0.28,0.28,0.44,A
+Liverpool,Crystal Palace,19-01-2019,0.72,0.18,0.1,H
+Man United,Brighton,19-01-2019,0.69,0.17,0.14,H
+Newcastle,Cardiff,19-01-2019,0.51,0.29,0.2,H
+Southampton,Everton,19-01-2019,0.41,0.26,0.33,H
+Watford,Burnley,19-01-2019,0.47,0.27,0.26,H
+Wolves,Leicester,19-01-2019,0.36,0.27,0.37,A
+Fulham,Tottenham,20-01-2019,0.24,0.28,0.49,A
+Huddersfield,Man City,20-01-2019,0.15,0.24,0.6,A
+Arsenal,Cardiff,29-01-2019,0.69,0.21,0.1,H
+Fulham,Brighton,29-01-2019,0.43,0.27,0.29,H
+Huddersfield,Everton,29-01-2019,0.36,0.3,0.34,H
+Man United,Burnley,29-01-2019,0.74,0.16,0.1,H
+Newcastle,Man City,29-01-2019,0.17,0.24,0.59,A
+Wolves,West Ham,29-01-2019,0.33,0.26,0.41,A
+Bournemouth,Chelsea,30-01-2019,0.23,0.26,0.51,A
+Liverpool,Leicester,30-01-2019,0.75,0.17,0.09,H
+Southampton,Crystal Palace,30-01-2019,0.39,0.26,0.35,H
+Tottenham,Watford,30-01-2019,0.65,0.21,0.15,H
+Brighton,Watford,02-02-2019,0.4,0.28,0.32,H
+Burnley,Southampton,02-02-2019,0.43,0.28,0.29,H
+Cardiff,Bournemouth,02-02-2019,0.31,0.25,0.44,A
+Chelsea,Huddersfield,02-02-2019,0.56,0.25,0.2,H
+Crystal Palace,Fulham,02-02-2019,0.4,0.27,0.33,H
+Everton,Wolves,02-02-2019,0.38,0.29,0.33,H
+Tottenham,Newcastle,02-02-2019,0.72,0.18,0.1,H
+Leicester,Man United,03-02-2019,0.23,0.28,0.49,A
+Man City,Arsenal,03-02-2019,0.61,0.24,0.15,H
+West Ham,Liverpool,04-02-2019,0.15,0.23,0.62,A
+Everton,Man City,06-02-2019,0.18,0.24,0.58,A
+Brighton,Burnley,09-02-2019,0.4,0.28,0.32,H
+Crystal Palace,West Ham,09-02-2019,0.46,0.26,0.28,H
+Fulham,Man United,09-02-2019,0.19,0.29,0.52,A
+Huddersfield,Arsenal,09-02-2019,0.27,0.3,0.43,A
+Liverpool,Bournemouth,09-02-2019,0.65,0.2,0.15,H
+Southampton,Cardiff,09-02-2019,0.59,0.23,0.18,H
+Watford,Everton,09-02-2019,0.47,0.24,0.29,H
+Man City,Chelsea,10-02-2019,0.63,0.22,0.15,H
+Tottenham,Leicester,10-02-2019,0.69,0.19,0.12,H
+Wolves,Newcastle,11-02-2019,0.56,0.23,0.21,H
+Cardiff,Watford,22-02-2019,0.37,0.28,0.34,H
+West Ham,Fulham,22-02-2019,0.44,0.26,0.3,H
+Bournemouth,Wolves,23-02-2019,0.35,0.3,0.35,H
+Burnley,Tottenham,23-02-2019,0.23,0.27,0.51,A
+Leicester,Crystal Palace,23-02-2019,0.43,0.28,0.29,H
+Newcastle,Huddersfield,23-02-2019,0.54,0.24,0.23,H
+Arsenal,Southampton,24-02-2019,0.43,0.27,0.3,H
+Man United,Liverpool,24-02-2019,0.42,0.22,0.36,H
+Cardiff,Everton,26-02-2019,0.38,0.25,0.37,H
+Huddersfield,Wolves,26-02-2019,0.26,0.3,0.44,A
+Leicester,Brighton,26-02-2019,0.54,0.25,0.21,H
+Newcastle,Burnley,26-02-2019,0.4,0.29,0.31,H
+Arsenal,Bournemouth,27-02-2019,0.46,0.25,0.29,H
+Chelsea,Tottenham,27-02-2019,0.34,0.3,0.36,A
+Crystal Palace,Man United,27-02-2019,0.24,0.26,0.5,A
+Liverpool,Watford,27-02-2019,0.69,0.21,0.1,H
+Man City,West Ham,27-02-2019,0.72,0.2,0.08,H
+Southampton,Fulham,27-02-2019,0.52,0.24,0.23,H
+Bournemouth,Man City,02-03-2019,0.14,0.23,0.64,A
+Brighton,Huddersfield,02-03-2019,0.57,0.23,0.19,H
+Burnley,Crystal Palace,02-03-2019,0.43,0.27,0.31,H
+Man United,Southampton,02-03-2019,0.73,0.17,0.1,H
+Tottenham,Arsenal,02-03-2019,0.54,0.25,0.21,H
+West Ham,Newcastle,02-03-2019,0.39,0.28,0.33,H
+Wolves,Cardiff,02-03-2019,0.59,0.24,0.18,H
+Everton,Liverpool,03-03-2019,0.19,0.26,0.55,A
+Fulham,Chelsea,03-03-2019,0.27,0.25,0.48,A
+Watford,Leicester,03-03-2019,0.33,0.25,0.42,A
+Cardiff,West Ham,09-03-2019,0.42,0.3,0.28,H
+Crystal Palace,Brighton,09-03-2019,0.49,0.24,0.27,H
+Huddersfield,Bournemouth,09-03-2019,0.39,0.28,0.32,H
+Leicester,Fulham,09-03-2019,0.57,0.25,0.18,H
+Man City,Watford,09-03-2019,0.78,0.16,0.05,H
+Newcastle,Everton,09-03-2019,0.49,0.24,0.27,H
+Southampton,Tottenham,09-03-2019,0.35,0.26,0.39,A
+Arsenal,Man United,10-03-2019,0.27,0.27,0.45,A
+Chelsea,Wolves,10-03-2019,0.53,0.26,0.21,H
+Liverpool,Burnley,10-03-2019,0.63,0.23,0.14,H
+Bournemouth,Newcastle,16-03-2019,0.38,0.27,0.35,H
+Burnley,Leicester,16-03-2019,0.35,0.24,0.41,A
+West Ham,Huddersfield,16-03-2019,0.55,0.23,0.22,H
+Everton,Chelsea,17-03-2019,0.28,0.27,0.45,A
+Fulham,Liverpool,17-03-2019,0.13,0.21,0.65,A
+Brighton,Southampton,30-03-2019,0.43,0.28,0.29,H
+Burnley,Wolves,30-03-2019,0.4,0.27,0.32,H
+Crystal Palace,Huddersfield,30-03-2019,0.65,0.2,0.16,H
+Fulham,Man City,30-03-2019,0.08,0.18,0.74,A
+Leicester,Bournemouth,30-03-2019,0.59,0.25,0.17,H
+Man United,Watford,30-03-2019,0.73,0.18,0.09,H
+West Ham,Everton,30-03-2019,0.37,0.26,0.37,A
+Cardiff,Chelsea,31-03-2019,0.27,0.27,0.46,A
+Liverpool,Tottenham,31-03-2019,0.62,0.23,0.15,H
+Arsenal,Newcastle,01-04-2019,0.49,0.24,0.27,H
+Watford,Fulham,02-04-2019,0.61,0.23,0.16,H
+Wolves,Man United,02-04-2019,0.31,0.28,0.41,A
+Chelsea,Brighton,03-04-2019,0.6,0.24,0.16,H
+Man City,Cardiff,03-04-2019,0.76,0.17,0.07,H
+Tottenham,Crystal Palace,03-04-2019,0.45,0.28,0.27,H
+Southampton,Liverpool,05-04-2019,0.22,0.24,0.55,A
+Bournemouth,Burnley,06-04-2019,0.46,0.27,0.27,H
+Huddersfield,Leicester,06-04-2019,0.22,0.26,0.52,A
+Newcastle,Crystal Palace,06-04-2019,0.53,0.26,0.21,H
+Everton,Arsenal,07-04-2019,0.4,0.29,0.31,H
+Chelsea,West Ham,08-04-2019,0.69,0.21,0.09,H
